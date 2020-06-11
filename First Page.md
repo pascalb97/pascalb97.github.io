@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: First Page
 nav_order: 2
 ---
 
