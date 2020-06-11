@@ -27,6 +27,7 @@ github_username:  pascalb97
 # Build settings
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
+color_scheme: nil
 plugins:
   - jekyll-feed
 
