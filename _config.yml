@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pascal's Pages
-author: "Pascal B."
+#author: "Pascal B."
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -27,7 +27,7 @@ github_username:  pascalb97
 
 # Build settings
 markdown: kramdown
-remote_theme: hugoferreira/papyrus-theme
+remote_theme: pmarsceill/just-the-docs
 #color_scheme: nil
 plugins:
   - jekyll-feed
@@ -48,7 +48,7 @@ plugins:
 #logo: "/assets/images/just-the-docs.png"
 
 # Enable or disable the site search
-#search_enabled: true
+search_enabled: true
 
 # Set the search token separator for hyphenated-word search:
-#search_tokenizer_separator: /[\s/]+/
+search_tokenizer_separator: /[\s/]+/
