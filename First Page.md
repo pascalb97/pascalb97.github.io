@@ -4,7 +4,7 @@ title: First Page
 nav_order: 2
 ---
 
-{% include lib/mathjax.html %}
+{% include mathjax.html %}
 
 # First Page
 
